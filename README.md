@@ -53,7 +53,7 @@ Você pode simular este projeto diretamente no seu navegador, utilizando o Tinke
 
 Assista ao vídeo que demonstra o funcionamento do sistema e explica sua importância:
 
-**[]**
+**[https://www.youtube.com/watch?v=6HvtjDjowBg]**
 
 
 ---
